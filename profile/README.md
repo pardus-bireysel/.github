@@ -9,7 +9,7 @@
   <ul>
     <li>Bireysel kullanıcı için gereksiz olan uygulamaları kaldıran bir betik yazmak</li>
     <li>betiğe, XFCE masaüstü ortamını KDE Plasma'ya dönüştürecek işlevsellik eklemek</li>
-    <li>betiğe; bloğuna gerekli olmayan servisleri kapatacak, kullanıcılar için belirli önayarları yapacak işlevsellik eklemek</li>
+    <li>betiğe, gerekli olmayan servisleri kapatacak, kullanıcılar için belirli önayarları yapacak işlevsellik eklemek</li>
     <li>KDE ortamı için Pardus Hoşgeldin uygulaması yazmak</li>
     <li>Pardus Bireysel betiğini arayüz olarak çalıştırabilecek bir GTK uygulaması yazmak</li>
     <li>Bizzat kurulum aşamasinda ilgili ayarları yapabilmek için .iso dosyası oluşturmak</li>
