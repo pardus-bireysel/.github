@@ -19,12 +19,6 @@
   </ul>
 </details>
 
-<details><summary>Ekibimiz</summary>
-<ul>
-  <li>Aliberk Sandıkçı</li>
-  <li>M. Emin</li>
-</ul>
-
 </details>
 <details><summary>Nereden çıktı bu fikir</summary>
   <a href="https://discord.gg/vF7mj53ZNV">Pardus Discord sunucusu</a> üzerindeki <a href="https://discord.com/channels/941091332389232741/1177946685129887744">şu</a> soru neticesinde bu fikre atıldık :)
