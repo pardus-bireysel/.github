@@ -36,7 +36,7 @@ Bireysel kullanıcıların Pardus ekosistemini daha rahat kullanabilmesi ve bu e
 3. Pardus Bireysel sürümü üzerine çalışırken bir yandan da TÜBİTAK ULAKBİM Ekibinin geliştirme sürecine yardımcı olmak. Geliştirme sürecini resmi sürümden ayırmamak
 </details>
 
-<details><summary>Pardus Bireysel'in herhangi bir <b>sosyal mecrada</b> topluluğu bulunmakta mıdır?<summary>
+<details><summary>Pardus Bireysel'in herhangi bir <b>sosyal mecrada</b> topluluğu bulunmakta mıdır?</summary>
 Pardus Bireysel, resmi Pardus topluluğundan ayrı bir topluluk <b>değildir</b>. Discord üzerindeki Pardus sunucusu veya <a href="https://pardus.org.tr">resmi Pardus</a> sitesindeki diğer linkler üzerinden topluluk ile aktif iletişimde kalabilirsiniz. Ayrıca <a href="https://gonullu.pardus.org.tr">Pardus Gönüllü Sayfası</a> üzerinden de ilgili gönüllülük faaliyetlerine katılabilirsiniz.
 
 Bu; ileride dokümantasyon, eğitim vb. bilgilendirici içerik (yazı/video) paylaşacağımız bir sitemiz olmayacağı anlamına gelmemektedir.
