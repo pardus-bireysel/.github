@@ -1,17 +1,13 @@
 # Pardus Bireysel
 > Not: Bu GitHub sayfası gönüllü bir topluluğa aittir, resmi Pardus GitHub sayfası için: https://github.com/pardus
 
-<b>Topluluk tarafından geliştirilen bireysel Pardus sürümü ve araçları.</b>
+<b>Bireysel Pardus kullanımı için geliştirme/eğitim faaliyetleri gösteren ve bu neticede topluluk tarafından geliştirilen bireysel Pardus sürümü/araçları.</b>
 
 ## Biz Kimiz
 Bireysel kullanıcıların Pardus'u daha rahat kullanabilmesi için çeşitli alanlarda çalışan <b>gönüllü</b> bir topluluğuz.
 
 ## Misyonumuz
 Bireysel kullanıcıların Pardus ekosistemini daha rahat kullanabilmesi ve bu ekosisteme alışabilmesi için gerekli geliştirme, dökümantasyon, eğitim, sorun giderme, teknik destek vb. süreçleri yürütmek. Resmi Pardus ekibi ile yarı-işbirlikçi bir şekilde çalışarak topluluk olarak Pardus'un gelişimine katkı vermek. Topluluğu bilinçlendirmek, Pardus'un bilinirliğini ve kullanım oranını arttırmak.
-
-<!-- ## Vizyonumuz -->
-
-
 
 ---
 <details><summary>Yol Haritası</summary>
@@ -40,7 +36,7 @@ Bireysel kullanıcıların Pardus ekosistemini daha rahat kullanabilmesi ve bu e
 3. Pardus Bireysel sürümü üzerine çalışırken bir yandan da TÜBİTAK ULAKBİM Ekibinin geliştirme sürecine yardımcı olmak. Geliştirme sürecini resmi sürümden ayırmamak
 </details>
 
-<details><summary>Pardus Bireysel'in herhangi bir <b>sosyal mecrada<b> topluluğu bulunmakta mıdır?<summary>
+<details><summary>Pardus Bireysel'in herhangi bir <b>sosyal mecrada</b> topluluğu bulunmakta mıdır?<summary>
 Pardus Bireysel, resmi Pardus topluluğundan ayrı bir topluluk <b>değildir</b>. Discord üzerindeki Pardus sunucusu veya <a href="https://pardus.org.tr">resmi Pardus</a> sitesindeki diğer linkler üzerinden topluluk ile aktif iletişimde kalabilirsiniz. Ayrıca <a href="https://gonullu.pardus.org.tr">Pardus Gönüllü Sayfası</a> üzerinden de ilgili gönüllülük faaliyetlerine katılabilirsiniz.
 
 Bu; ileride dokümantasyon, eğitim vb. bilgilendirici içerik (yazı/video) paylaşacağımız bir sitemiz olmayacağı anlamına gelmemektedir.
